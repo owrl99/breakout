@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1368821062 source:c:\cprojects\breakout\constants.cpp
+
+1368879164 source:c:\cprojects\breakout\functions.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+
+1369071486 c:\cprojects\breakout\libincludes.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<string>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+
+1369614277 c:\cprojects\breakout\constants.h
+	"libincludes.h"
+
+1368822989 c:\cprojects\breakout\globals.h
+	"libincludes.h"
+
+1368879032 c:\cprojects\breakout\functions.h
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+
+1368823556 source:c:\cprojects\breakout\globals.cpp
+	"libincludes.h"
+	"globals.h"
+
+1369614543 source:c:\cprojects\breakout\main.cpp
+	"libincludes.h"
+	"constants.h"
+	"classes.h"
+	"functions.h"
+	"globals.h"
+
+1369615256 c:\cprojects\breakout\classes.h
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+
+1368878996 source:c:\cprojects\breakout\paddle.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"classes.h"
+
+1368879630 source:c:\cprojects\breakout\text.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"classes.h"
+
+1368821633 source:c:\cprojects\breakout\timer.cpp
+	"libincludes.h"
+	"classes.h"
+
+1369614453 source:c:\cprojects\breakout\block.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"classes.h"
+
+1369613821 source:c:\cprojects\breakout\ball.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"classes.h"
+
+1369071498 source:c:\cprojects\breakout\blockhandler.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"classes.h"
+
+1369614954 source:c:\cprojects\breakout\game.cpp
+	"libincludes.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"classes.h"
+
